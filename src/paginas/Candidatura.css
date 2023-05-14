@@ -1,0 +1,23 @@
+.candidatura-texto {
+    color: #109E92;
+    position: absolute;
+    width: 313px;
+    height: 77px;
+    left: 40px;
+    top: 200px;
+}
+
+.textarea {
+    background-color: #ECECEC;
+    margin-top: 70px;
+    color: #109E92;
+}
+
+.icon-voltar {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 18px;
+    top: 36px;
+    color: #33364D;
+}

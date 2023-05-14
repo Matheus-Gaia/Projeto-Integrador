@@ -1,0 +1,30 @@
+.criar-h1 {
+    margin-top: 120px;
+    color: #33364D;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 32px;
+    line-height: 40px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.criar-form {
+    color: #109E92;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 135px;
+    gap: 2px;
+}
+
+.input {
+    width: 333px;
+    height: 49px;
+    color: #109E92;
+    background: #D9D9D9;
+    box-shadow: -8px -8px 16px rgba(255, 255, 255, 0.25), 8px 8px 16px rgba(154, 154, 154, 0.25);
+    border-radius: 5px;
+    border:0;
+    outline:0;
+}
